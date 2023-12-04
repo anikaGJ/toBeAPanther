@@ -1,7 +1,8 @@
 # toBeAPanther
 Big Ideas Final (CMPINF 0010) Group 42
  
-Team Error 404: Brain Not Found
+Team Name:
+Error 404: Brain Not Found
 
 Ally Kaufman: amk505@pitt.edu
 
