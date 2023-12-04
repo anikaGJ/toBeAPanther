@@ -1,5 +1,7 @@
 # toBeAPanther
 Big Ideas Final (CMPINF 0010) Group 42
+<<<<<<< main
+=======
  
 Team Name:
 Error 404: Brain Not Found
@@ -28,3 +30,4 @@ https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscell
 
 
 Overview:
+>>>>>>> main
