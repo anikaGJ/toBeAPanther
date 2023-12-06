@@ -24,10 +24,10 @@ https://data.wprdc.org/dataset/city-traffic-signs
 
 Population Density:
 
-https://data.wprdc.org/dataset/neighborhoods2
+https://data.wprdc.org/dataset/neighborhoods2 Area
 
-https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data Population
 
 
 Overview:
->>>>>>> main
+This repository explores the best neighborhood to be a panther in by using csv files about neighborhoods.
